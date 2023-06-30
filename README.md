@@ -15,12 +15,13 @@ desarrollo de páginas web con capacidad de aprendizaje rápido.
 
 <h3  align='center'>⚒&nbsp;&nbsp;&nbsp;My Development Toolbelt</h3>
 
-<p >
---HTML5
---CSS3
---JAVASCRIPT
---PHP
---JAVA
--- MYSQL  
-</p>
-
+- HTML5
+- CSS3
+- JAVASCRIPT
+- PHP
+- JAVA
+- MYSQL
+- SQL SERVER
+- BOOTSTRAP 5
+- GIT
+- GITHUB
