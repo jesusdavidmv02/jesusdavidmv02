@@ -1,10 +1,10 @@
 <h1 align='center'>Hi there  👋, I'm Jesus Mendoza 🧑‍💻</h1>
 
 <p align='justify'>
-Programador enfocado en el manejo y manipulación de sistemas de información, con el fin de producir aplicaciones de software que solucion
-en problemas específicos aplicando las tecnologías, metodologías y estándares que se requieran para lograr un desarrollo de alta calidad. 
-esempeñándome con criterio tecnológico y humanista en funciones de Desarrollo de programas para computador en lenguaje de alto nivel,
-desarrollo de páginas web con capacidad de aprendizaje rápido.
+  Programador enfocado en el manejo y manipulación de sistemas de información, con el fin de producir aplicaciones de software que solucion
+  en problemas específicos aplicando las tecnologías, metodologías y estándares que se requieran para lograr un desarrollo de alta calidad. 
+  esempeñándome con criterio tecnológico y humanista en funciones de Desarrollo de programas para computador en lenguaje de alto nivel,
+  desarrollo de páginas web con capacidad de aprendizaje rápido.
 </p>
 
 <p align='center'>
@@ -15,10 +15,10 @@ desarrollo de páginas web con capacidad de aprendizaje rápido.
 
 <h3  align='center'>⚒&nbsp;&nbsp;&nbsp;My Development Toolbelt</h3>
 
-- HTML5 ( CSS3 - JAVASCRIPT)
-- PHP
-- JAVA
-- MYSQL - SQL SERVER
-- GIT
-- GITHUB
+- HTML5. ( CSS3 - JAVASCRIPT)
+- PHP.
+- JAVA.
+- MYSQL - SQL SERVER.
+- GIT.
+- GITHUB.
 
