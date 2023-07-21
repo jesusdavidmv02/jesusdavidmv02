@@ -21,7 +21,9 @@
 - MYSQL - SQL SERVER.
 - GIT.
 - GITHUB.
-  
-<h3  align=''>Conecta con migo en </h3>
+
+<h3  align=''>Me encuanetar en </h3>
+
 - [Instagram](https://www.instagram.com/).
+  
 
