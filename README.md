@@ -24,6 +24,7 @@
 
 <h3  align=''>Me encuanetar en </h3>
 
-- [Instagram](https://www.instagram.com/).
+- [Instagram](https://www.instagram.com/)
+- [Facebook](https://www.Facebook.com/)
   
 
