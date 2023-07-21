@@ -21,6 +21,7 @@
 - MYSQL - SQL SERVER.
 - GIT.
 - GITHUB.
-- 
-<h3  align='center'>Conecta con migo en </h3>
--[Instagram](https://www.instagram.com/)
+  
+<h3  align=''>Conecta con migo en </h3>
+- [Instagram](https://www.instagram.com/).
+
