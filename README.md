@@ -19,8 +19,7 @@
 - PHP.
 - JAVA.
 - MYSQL - SQL SERVER.
-- GIT.
-- GITHUB.
+- GIT. - GITHUB.
 <hr>
 <h3  align=''>Me encuentra en </h3>
 
