@@ -24,7 +24,6 @@
 <h3  align=''>Me encuentra en </h3>
 
 - [Instagram](https://www.instagram.com/jesusdmv20/)
-- [Facebook](https://www.facebook.com/jesusdavid.mendozavergara/)
 - [Linkedin](https://www.linkedin.com/in/jesus-david-mendoza-vergara-972172193/)
 - [Youtube](https://www.youtube.com/@jesusdavidmv02)
   
