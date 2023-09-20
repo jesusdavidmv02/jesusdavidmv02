@@ -12,11 +12,11 @@
 <hr>-->
 <hr>
 <h3  align=''>⚒&nbsp;&nbsp;&nbsp;My Development Toolbelt</h3>
-- HTML5 - ( CSS3 - JAVASCRIPT)
-- PHP.
-- JAVA.
-- MYSQL - SQL SERVER.
-- GIT - GITHUB.
+-HTML5 - ( CSS3 - JAVASCRIPT)
+-PHP.
+-JAVA.
+-MYSQL - SQL SERVER.
+-GIT - GITHUB.
 <hr>
 <h3  align=''>Me encuentra en </h3>
 
