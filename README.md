@@ -1,10 +1,7 @@
 <h1 align='center'>Hi there  👋, I'm Jesus Mendoza 🧑‍💻</h1>
 
 <p align='justify'>
- Soy Programador enfocado en el manejo y manipulación de sistemas de información, con el fin de producir aplicaciones de software que solucion
-  en problemas específicos aplicando las tecnologías, metodologías y estándares que se requieran para lograr un desarrollo de alta calidad. 
-  esempeñándome con criterio tecnológico y humanista en funciones de Desarrollo de programas para computador en lenguaje de alto nivel,
-  desarrollo de páginas web con capacidad de aprendizaje rápido.
+Ingeniero de sistemas con énfasis en desarrollo BackEnd y experiencia en el manejo y optimización de sistemas de información, orientado al desarrollo de aplicaciones de software que resuelven problemas específicos con eficiencia y calidad. Hábil en la implementación de tecnologías como: Java, JavaScript, Node.js, TypeScript, HTML, CSS y bases de datos MySQL, aplicando metodologías y estándares avanzados para garantizar soluciones robustas y escalables. Con una rápida capacidad de aprendizaje y una visión tanto tecnológica como humanista, me desempeño en la creación de programas informáticos y plataformas web, siempre orientado a la innovación y mejora continua en el desarrollo de software.  . Cómo está en redacción 
 </p>
 <!--<p align='center'>
   <a href="https://www.linkedin.com/in/jesus-david-mendoza-vergara-972172193/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
